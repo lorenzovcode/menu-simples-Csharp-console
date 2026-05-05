@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\OneDriveSENACBrabo\\OneDrive - SENAC - SP\\[DEV]\\UC9\\Ailton-C#\\menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FB4DF9-E6AA-4393-A4F5-28D732911D99}|menu.csproj|c:\\users\\loren\\onedrivesenacbrabo\\onedrive - senac - sp\\[dev]\\uc9\\ailton-c#\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FB4DF9-E6AA-4393-A4F5-28D732911D99}|menu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDriveSENACBrabo\\OneDrive - SENAC - SP\\[DEV]\\UC9\\Ailton-C#\\menu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDriveSENACBrabo\\OneDrive - SENAC - SP\\[DEV]\\UC9\\Ailton-C#\\menu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAAwHIBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:28:54.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
